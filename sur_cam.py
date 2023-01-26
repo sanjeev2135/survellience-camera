@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 11 16:00:24 2021
-
-@author: xavierchelladurai
-"""
-
 import face_recognition
 import cv2
 from PIL import Image, ImageDraw, ImageFont
